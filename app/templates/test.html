@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<head>
+    {% if title %}
+    <title>{{ title }} </title>
+    {% else %}
+    <title>Py-Quiz</title>
+    {% endif %}
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/main.css') }}">
+
+</head>
+
+<body>
+    <h5>Py- Quiz</h5>
+    <h5> Types of Quiz</h5>
+    <h5> Beginner </h5>
+      <!-- here we are declaring a special class to style it accordingly--> 
+        <p class="test">Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+            You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.
+        <br>
+        <a style="margin-left: 400px;" href="{{ url_for('exam') }}" class="button">Start</a>
+        </p>
+    <br>
+    <hr style="width: 300px;">
+    <br>   
+    <h5> Intermediate</h5>
+        <p class="test">
+            The Python online test assesses candidates' knowledge of programming in the Python language and understanding of its native data structures.
+            It's an ideal test for pre-employment screening. A good Python developer needs to be able not only to solve problems using Python as the programming language but also be familiar with Python native data structures and language constructs.
+            This online test requires candidates to solve coding problems in Python as well as to find and fix bugs in a Python program. 
+            <br>
+        <a style="margin-left: 400px;" href="{{ url_for('exam2') }}" class="button">Start</a>
+        </p>
+</body>
+{% endblock %}
+
+
+
+

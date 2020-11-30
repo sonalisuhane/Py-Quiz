@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Dilip Profile</title>
+		<meta charset="utf-8">
+			<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/main.css') }}">
+				<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+				</head>
+				<body>
+					<img class="img_container_dilip" src="{{ url_for('static',filename='images/sign1.gif') }}" alt="adv/">
+						<p class="para">
+        Hello,Im Dilip.
+      </p>
+						<img class="img_container1_dilip" src=".{{ url_for('static',filename='images/p1.jpg') }}" alt="adv/">
+							<p class="pa">
+        I am a post graduate Data Science student at UWA!
+								<br>
+        I have made and done some things that will probably haunt me in the future!
+									<br>
+									</p>
+									<div class="icons">
+										<!-- here we are linking the icons to their approproate destinations-->
+										<a href="https://www.facebook.com/diliprdy26" class="fa fa-facebook"></a>
+										<a href="https://www.linkedin.com/in/dilip-kumar-reddy-kotha-94784b119/" class="fa fa-linkedin"></a>
+										<a href="https://www.instagram.com/dilipkumar_24/" class="fa fa-instagram"></a>
+										<a href="https://github.com/dk2404" class="fa fa-github"></a>
+									</div>
+									<br>
+										<!-- global footer-->
+										<footer class="dilfoo">
+      &copy; 2020 DK & SS,All rights reserved;
+    </footer>
+									</body>
+								</html>
+{% endblock %}
+  

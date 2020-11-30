@@ -1,0 +1,27 @@
+/* styling the feedback page */
+.feed{
+    margin-top: 200px;
+    text-shadow: rgb(17, 0, 255);
+    color: darkblue;
+    margin-left: 200px;
+}
+
+.button{
+    margin-top: 15px;
+    padding: 9px 25px;
+    background-color: rgb(122, 64, 17);
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    margin-left: 600px;
+}
+
+button input:hover {
+    background-color: rgba(109, 66, 10, 0.7);
+}
+
+h3{
+    text-align: center;
+    color: darkgray;
+}

@@ -1,0 +1,57 @@
+{% extends "base.html" %}
+{% block content %}
+
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<title> About the Authors  </title>
+		<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/about.css') }}">
+					<!-- social profiles -->
+					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+					</head>
+					<body>
+						<h1 class="abh">Dilip Kotha & Sonali Suhane</h1>
+						<p class="abcon">The webpage has been a group effort of DK and SS.</p>
+						<img class="img_container3" src="{{ url_for('static',filename='images/p1.jpg') }}" alt="Dilip Kotha">
+							<img class="img_container4" src="{{ url_for('static',filename='images/sonali.jpg') }}" alt="Sonali Suhane" >
+								<div class ="item">
+									<ul>
+										<li>
+											<a href="{{ url_for('dilip') }}">Dilip Kotha</a>
+										</li>
+										<li>
+											<a href="{{ url_for('sonali') }}">Sonali Suhane</a>
+										</li>
+									</ul>
+								</div>
+								<p class = "data"> 
+                    This project has been nothing short of a roller coaster ride! 
+									<br>
+										<img class="img_container5" src="{{ url_for('static',filename='images/rol.gif') }}" alt="roll lol">
+											<br>
+                    What will we be doing after this? 
+												<br>
+                    A beer tonight , for a good nights sleep & study for finals from tomorrow! 
+													<br>
+                    This project will be costantly updated with new knowledge we both gain from here on, 
+														<br>
+                    to turn this into a master piece. 
+															<br>Until next time! 
+                    Dk & Ss out! 
+																<br>
+																	<img class="img_container5" src="{{ url_for('static',filename='images/pc.gif') }}" alt="wohoo">
+																	</p>
+																	<p class="marquee">
+																		<span> Fun Facts! Number of zoom meetings to complete this webpage!: infinty |number of git-hub confusions : we lost the count after 453 |
+                    number of  physical meetings : 3 (Thanks to covid-19) |
+                    number of coffees and redbulls : 3 a day for the from 15th may to 1st june. |&nbsp;</span>
+																	</p>
+																	<footer class="foo">
+                                    &copy; 2020 DK & SS,All rights reserved;
+                                  </footer>
+																</div>
+															</body>
+														</html>
+{% endblock %}

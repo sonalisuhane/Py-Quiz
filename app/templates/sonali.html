@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<title> CV page  </title>
+		<meta charset="UTF-8">
+			<meta name="viewport" content="width=device-width, initial-scale=1.0">
+				<link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/style.css') }}">
+					<script  src="../../js/js.js"></script>
+					<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+						<script  src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+						<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+						</head>
+						<body>
+							<div>
+								<div class="container">
+									<img class="img_container" src="{{ url_for('static',filename='images/tech.jpg') }}" alt="background" >
+										<div class="text-block">
+											<h4>Sonali Suhane
+												<br>Data Scientist
+												</h4>
+											</div>
+										</div>
+										<div class="topnav">
+											<a class="active" href="#home">Home</a>
+											<a href="#about">About</a>
+											<a href="#skill">skills</a>
+											<a href="#contact">Contact</a>
+											<a href="#Experience">Experience</a>
+											<a href="https://twitter.com/SuhaneSonali" class="fa fa-twitter"></a>
+											<a href="https://www.linkedin.com/in/sonali-s-36baa9149/"  class="fa fa-linkedin"></a>
+											<a href="https://www.pinterest.com.au/sonalisuhane/" class="fa fa-pinterest"></a>
+										</div>
+										<div class="container1">
+											<h2 id="about">About the Author</h2>
+											<img class="img1" src="{{ url_for('static',filename='images/sonali.jpg') }}" alt="Avatar" style="width:200px">
+												<p>Sonali Suhane is a second-year student of master in data science, from
+            The University of Western Australia. She did her bachelor's in electronic and
+            communication engineering, therefore it gives me a perfect blend of Mathematics
+            and programming and the ability to solve the analytical problem. Currently, She is 
+            working as a Data Scientist at Petra Data Science on casual basis.</p>
+											</div>
+											<div class="container2">
+												<h2 id="skill"> Skills</h2>
+												<div class="content3">
+													<div id="chartContainer" style="height: 300px; width: 100%;"></div>
+												</div>
+												<div class="content4">
+													<img src="{{ url_for('static',filename='images/top.png') }}" style="height: 300px; width: 100%;" alt="skills"/>
+												</div>
+											</div>
+											<div class="container1">
+												<h3 class="center" id="Experience"> Work Experience </h3>
+												<div class="content1">
+													<div class="centered">
+                petra data science (Aug,2019-)
+            </div>
+													<div class="box">
+                Worked on various projects that required Data cleaning, analyzing and visualization using Python,SQL,Rstudio, etc.
+                Hands-on experience with amazon web service.
+                Labelled images using Rectlabel software for building machine learning model.   
+            </div>
+												</div>
+												<div class="content2">
+													<div class="centered">
+                Equity officer (2019-current)
+            </div>
+													<div class="box">
+                The PSA is the representative body for postgraduate students at UWA.
+                Implement the Association’s policy relating to postgraduate welfare issues.
+                promote the interests of postgraduate students.
+														<br>
+															<br>
+															</div>
+														</div>
+													</div>
+													<footer class="foo">
+														<div class="pagination">
+															<a href="index.html">Home</a>
+															<a href="..">Login</a>
+															<a href="..">Register</a>
+															<a href="about.html">About</a>
+														</div>
+													</footer>
+												</div>
+											</body>
+										</html>

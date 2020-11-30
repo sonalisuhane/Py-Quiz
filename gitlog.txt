@@ -1,0 +1,839 @@
+commit 0343a2428a9092e80031343a0699312a8bcc13fc
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:56:53 2020 +0800
+
+    style quick fix
+
+commit 978cf787568e35fbb9dd5f2e4add1b9c4d9629ff
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:56:40 2020 +0800
+
+    requirements update
+
+commit b8f392b5f4ba66a274c9172146f79505480dd65d
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 23:53:09 2020 +0800
+
+    quick fix
+
+commit 159b0cc3d098f9c1cad169be9aaa9413a6a5d493
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:49:52 2020 +0800
+
+    questions updated
+
+commit 4a2a6fc125d270214f0cfc5cbc315fba4279bacb
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:31:37 2020 +0800
+
+    models align
+
+commit 849a63cad2991c50b331b030cc09482ced2f3624
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:27:55 2020 +0800
+
+    py files align
+
+commit cc30353bca6ac66696dfcca74482edb6cbaa1313
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 23:23:41 2020 +0800
+
+    styling
+
+commit db7a51f97d2cfbb8dbde564b3c1e03d95d68891d
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:13:09 2020 +0800
+
+    test align
+
+commit a0c3419983be7975a530b7ffe7109c4cca4e187f
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:13:03 2020 +0800
+
+    sonali profile
+
+commit 5acfa1ee268b45907fe8aa4ad02405feae336af2
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:56 2020 +0800
+
+    register
+
+commit d3251ba529305027c5b05e2ea8e3f19733eb5557
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:49 2020 +0800
+
+    login
+
+commit d852e2dc3e9bacef13cc5a614cb0b3f9ff4853d1
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:39 2020 +0800
+
+    deleted
+
+commit 252542cf1541c7e24f98a3544faa6137bcf7d77e
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:33 2020 +0800
+
+    feedback align
+
+commit fc02b6da444f3ba97e2ff6651816494e417fd546
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:23 2020 +0800
+
+    quiz 2
+
+commit 07d67a20210c9a471bb981b5cabab238714437f8
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:17 2020 +0800
+
+    quiz1
+
+commit cb79687bb5b57540cd54efef0816a7586655d946
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:10 2020 +0800
+
+    profile dilip
+
+commit 71417b40636a807ede35f1d42b57728adc040a39
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:12:03 2020 +0800
+
+    base
+
+commit c6253233b81beed1df77f43cdc145999858bb6c4
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:11:57 2020 +0800
+
+    deleted ir-relevant files
+
+commit 15b4f0635a030ca12e7bc8eb1967c0025e82ca34
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:11:43 2020 +0800
+
+    code align
+
+commit 5be867833d7bf530090a525698966e30e58a3adb
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 23:11:32 2020 +0800
+
+    style sheet
+
+commit 22565c5b0d7aa7bd2788c92423f39ea7725c61be
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 22:53:09 2020 +0800
+
+    images
+
+commit 2bb175efb3861c3491f33fb6bc43531251a1fdb6
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 22:49:23 2020 +0800
+
+    about style
+
+commit 0aa48ca5060f86afb2a7d41b3d5e5d9fee6ac60d
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 22:49:06 2020 +0800
+
+    main style sheet
+
+commit bdc5bead51964dafbce9bb5cbd36de07023876a4
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 22:48:54 2020 +0800
+
+    about
+
+commit 7832a2a62d0ebb2aabcca28f63270507c06f0f94
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 22:48:47 2020 +0800
+
+    dilip intro
+
+commit 21d2d9b4f683b56829cdb90f1484dc8885094e9e
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 22:42:03 2020 +0800
+
+    style change
+
+commit 4b581b70e0690adc4d5829bac8f6e7cbff71e9a4
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 19:32:18 2020 +0800
+
+    updated style sheet
+
+commit 28d85dcb1f4cdac9a88a60eb6b7ff6b72cbbd0a1
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 18:49:10 2020 +0800
+
+    feedback page fix
+
+commit 48c5cb6d14a93b554062b52a986a88f8607214b8
+Author: dk2404 <65907416+dk2404@users.noreply.github.com>
+Date:   Mon Jun 1 17:41:58 2020 +0800
+
+    Readme updated
+
+commit 5298eea2dac36bad303098f9fb732c9af31ceb3c
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 17:33:38 2020 +0800
+
+    quick fix
+
+commit e5bcc7a592f086f6a4f0a4c6cba2c91c79791634
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 17:33:16 2020 +0800
+
+    update
+
+commit 8dd4cd7252574256b0df648dae1acb0b889b12a8
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 17:32:39 2020 +0800
+
+    update
+
+commit f14a49c7dbb75ebca83d2d2a89d7042583ee9f1b
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 17:32:28 2020 +0800
+
+    commented out test
+
+commit 102ccb330f536d68ed5fb3e3340d829f0f0646a4
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 17:32:13 2020 +0800
+
+    update config
+
+commit c893e744932106bfc6ae3bb56657e815d28a897c
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 17:31:59 2020 +0800
+
+    updated database
+
+commit 2f6c9137d57aeb047e2f8e250b63ca544b76a2f7
+Merge: 03d7199 c84620b
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:27:31 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 03d7199c2c2484b3d14b3eb85d4679f8622bd3d3
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:27:05 2020 +0800
+
+    deleted post
+
+commit b33d376c6bdf9fe5d2b90bd6f4045815328d293f
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:26:44 2020 +0800
+
+    deleted post
+
+commit cafd576b9886b7a48f639a969946e015a57ed868
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:26:27 2020 +0800
+
+    deleted post
+
+commit 0ecbdfa8bb0cfc1d3448134d56ceb9dbbb2f39c8
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:26:05 2020 +0800
+
+    update
+
+commit a48c443bee45fcad41f512437cdbde0c49a07369
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:25:49 2020 +0800
+
+    added column
+
+commit 444bd777d870021a571da63785fb92ce87d336e2
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 16:25:32 2020 +0800
+
+    main
+
+commit c84620b54165cf944d3392bb2f8946c3fdc83862
+Merge: 39abf7a 021695b
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:27:24 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 39abf7aa54f080a3bdf477d927d5ddf02e2a5364
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:27:00 2020 +0800
+
+    init file
+
+commit 2f5ee6f7e12d94d565433d80c6385fe6947afcb4
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:26:23 2020 +0800
+
+    unit test file
+
+commit 176d5b0a41b05b315be5e1c0abb82b023e8a7898
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:26:14 2020 +0800
+
+    test.db
+
+commit e90c08ef111c47d347531ad1b2d07ac4ba74ced4
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:25:11 2020 +0800
+
+    system test
+
+commit 41b79ecea0bde94c87c332115e696f050a05c5de
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:24:42 2020 +0800
+
+    system test
+
+commit 404f7c0e0cc6fef117e6e4e35e20d49757b0f542
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:24:23 2020 +0800
+
+    geckodriver
+
+commit b268cde52117a12053966e576bb87d8fdcfbf29e
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:24:12 2020 +0800
+
+    test init file
+
+commit 0dc30656f6227fe4e20227b0b90e14e2e5e13165
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:23:49 2020 +0800
+
+    test.db
+
+commit 80ab036b665061328f1ba3237de9738a945cab03
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:23:40 2020 +0800
+
+    requirements updated with selenium
+
+commit 7e3d06c519b85c895b6188d6b0580bea07d92596
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:23:26 2020 +0800
+
+    geck log
+
+commit 0cf8c8cf629e27363dc48c10ce007a4957737acc
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 14:23:17 2020 +0800
+
+    config file
+
+commit 021695b1e37607bee60a326bedf420b883f399fd
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 13:43:52 2020 +0800
+
+    questions
+
+commit 980057184a6e1a4fd0459c40cd6d7a1d3f37a4f4
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 11:50:36 2020 +0800
+
+    app.db
+
+commit 5fa24156c6390d823520c8fa21163ed95b7c41b6
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 11:50:29 2020 +0800
+
+    del
+
+commit e80608fbd88005d09416ed6aa20880dedaae0390
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 11:50:18 2020 +0800
+
+    routes
+
+commit 0dca735b0958fb11c60f7f4a4397578655d50a87
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 11:50:10 2020 +0800
+
+    intro
+
+commit 08cdba26464607321ef9c541a9094882ed2792ab
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Mon Jun 1 11:50:01 2020 +0800
+
+    quiz
+
+commit dcbe69a3ec66c1878715c10871c18aca3a6b27d8
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Mon Jun 1 03:05:41 2020 +0800
+
+    feedback update
+
+commit 1264d036c00a443ccc7aae4184bff66da2f60585
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 23:26:15 2020 +0800
+
+    admin update
+
+commit 759f9b15404b640400c53785f7b1afed625f845a
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 19:37:49 2020 +0800
+
+    style
+
+commit 47b237642df3d44e579bee62b3cbb16127a36aa7
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 15:32:17 2020 +0800
+
+    sync
+
+commit 39a744d8bf0d11afb8d669c1bfbceb81595aeb8e
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 15:22:31 2020 +0800
+
+    question_level
+
+commit 48a11bd5825e25619df4bdd194e46dc1ca49bbe1
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 14:15:54 2020 +0800
+
+    dashboard
+
+commit 33a41d8aa3dc9914bc5dd7540ea67fe34f310599
+Merge: 9f25b8c 6158ce8
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 12:33:08 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 9f25b8c41671cfa3784db0e730d13f749704e84d
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 12:32:50 2020 +0800
+
+    dashboard
+
+commit 6158ce851a7d2d1959789b5b347b7c2d30fe806d
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 12:09:02 2020 +0800
+
+    intro
+
+commit 0d0e45f1359a47b61be7ddd067573d5d6c6434ec
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 12:08:55 2020 +0800
+
+    base
+
+commit a8755091f6afaa3764e6ed2e3575a3e4b21f5720
+Merge: 1b2b37f f2cee18
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 12:04:11 2020 +0800
+
+    base html update
+
+commit f2cee18e3998ce941fb594f67b6ad2bf1b8fd4a5
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:57:29 2020 +0800
+
+    admin db
+
+commit fc4fb6e9c4c2080507920e3785027cc4325a8ac0
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:57:11 2020 +0800
+
+    routes
+
+commit 959859d4e468f41bf9c5703a05323b9cf3a64e7e
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:56:57 2020 +0800
+
+    feedback
+
+commit f0b09c00afa01e0b025c3ef12ba101d4155516c0
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:56:49 2020 +0800
+
+    index
+
+commit 81e5aa3c69d07fffb525dd00768c5b45b89ced36
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:56:43 2020 +0800
+
+    test
+
+commit 1b2b37fa437bad1171711af8b32f26b2b1339615
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sun May 31 11:53:42 2020 +0800
+
+    layout change
+
+commit 5dfc13a6e69d4c7ba22ba89455f2c736bdd720ff
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:40:22 2020 +0800
+
+    sonali about
+
+commit dde4bb77fbc786cd916a876cadd3113643d2fb51
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:40:11 2020 +0800
+
+    intro
+
+commit 0c9733d04b0580939fdf3ed12b59c20acefcf5c9
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:35:52 2020 +0800
+
+    app.db
+
+commit 1b5cc695703b60319e4d3e83b46786abf928faef
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:55 2020 +0800
+
+    intro
+
+commit 20d1ae01dd438facf50ffebc763251f4b762cabc
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:49 2020 +0800
+
+    question add
+
+commit d8204bc3f679e9f47185902ed20abb0db6b6aafd
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:42 2020 +0800
+
+    init
+
+commit 52626c8d0d9f6bb7d03e45790273aa794cfd7300
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:34 2020 +0800
+
+    admin
+
+commit 1b7e6250fd8bf73ac368c451bf64e6f411452bcf
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:28 2020 +0800
+
+    models
+
+commit 8e8b0228f78023e7bf24d1cde8a8abea0621ef81
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:21 2020 +0800
+
+    routes
+
+commit e975bea7260dbaa9d8663e3c04b51ba31e9f786f
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sun May 31 11:21:13 2020 +0800
+
+    restricted page
+
+commit 81b7fb52b54d58b8aa56ff1084c8db77a51330b6
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 23:16:24 2020 +0800
+
+    routes
+
+commit 6709e5629996924cff20720ebe12b0979769b10b
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 23:15:20 2020 +0800
+
+    about
+
+commit c6c9c327c226126ab1d92336f80438e1cf1089f6
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 22:25:06 2020 +0800
+
+    db
+
+commit 4590b8a91dab70773403b6b8b44a47051b3d6b70
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 22:24:55 2020 +0800
+
+    about
+
+commit 1820ddf452e2c403b43b8a57e3e40838bd08fa87
+Merge: 47dec05 1691000
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 21:35:04 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 1691000709d6c80ead6212880359ffcf1e1bdc1f
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sat May 30 21:19:41 2020 +0800
+
+    about route
+
+commit 47dec058d409af74b0aa75ac9e4651cdae78bbd6
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 16:28:13 2020 +0800
+
+    req
+
+commit 79da2375c7ab49846f899a5ee4db80d6e5e6c2cf
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sat May 30 15:18:02 2020 +0800
+
+    routes change
+
+commit 5e653c27f709d82dded18d07ed4f20d3b2fdfc0d
+Merge: 999dfef b7090a8
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sat May 30 15:09:32 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit b7090a8757817d843efb05ba3cfd51a51efff1fb
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 15:03:42 2020 +0800
+
+    intro
+
+commit cbdfd36b41112f6a2c8a651776636d77a543706e
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 15:03:26 2020 +0800
+
+    routes
+
+commit 9b5d797e8ad5c190e1b42f1f196db1124985fd93
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 15:00:56 2020 +0800
+
+    images
+
+commit ca7c42f0a15db8bb063790608ab6482c6e5f2e46
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 14:16:47 2020 +0800
+
+    windows venv
+
+commit 3de5f05c7f8fc6cfe046225e46d3aac6115b786e
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Sat May 30 14:16:20 2020 +0800
+
+    index
+
+commit 999dfef03d0dcc6fa52fbf5fb37494eb0ad4b4df
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Sat May 30 12:06:53 2020 +0800
+
+    changes
+
+commit d05e492073047117dce6ca9f47971ca98f9be171
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Thu May 28 16:23:22 2020 +0800
+
+    about
+
+commit 87047227f056c4d55f00d42b04b83b03abddce8e
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Thu May 28 10:58:29 2020 +0800
+
+    image
+
+commit aa2bd401536594bf633588d034d15edbd9aa2cbc
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Thu May 28 10:58:15 2020 +0800
+
+    home
+
+commit 61e8f52b9cd393917dcccd3fc21e1d177e3e4b89
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 17:29:08 2020 +0800
+
+    stylesheet
+
+commit 7a79bbfbfeea66b4896875b8bf39442197dc5764
+Merge: d4683ab 5438b4d
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 16:33:29 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit d4683abe42a8d02d466f763c960a19b14b20c8a1
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 16:33:14 2020 +0800
+
+    db
+
+commit 5438b4d0fbc7fe6f424842c72e75a3a1de72f5cd
+Author: dk2404 <65907416+dk2404@users.noreply.github.com>
+Date:   Wed May 27 15:54:00 2020 +0800
+
+    requirements
+
+commit 863f35bdabbabca1706bc5d9bd29aec8675db374
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:51:57 2020 +0800
+
+    code
+
+commit 3678578ead427c60de1503935e777c965699a90a
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:51:39 2020 +0800
+
+    requiremetns
+
+commit e8d56f8a762c759466ae8c502792bff3a37615aa
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:42:13 2020 +0800
+
+    requiremetns
+
+commit 274296c8cf2b590d8e679e3608922b0abb94b3c1
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:41:29 2020 +0800
+
+    requirements
+
+commit 643ae8a6d68efb6c6943a75f6152f202df9efdc5
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:38:21 2020 +0800
+
+    requrirements
+
+commit 7cfb3b48cb42aae95d83f72138565a830de7db6a
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:22:54 2020 +0800
+
+    path changes
+
+commit 2ba531041da4e9b534aae05023783345a6104865
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 15:17:14 2020 +0800
+
+    organizing
+
+commit 0457f6acf222ec1c139e4412bb6a0dc1f46c3a32
+Merge: 0c87910 f8c1480
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 15:12:38 2020 +0800
+
+    intro
+
+commit 0c87910b0a3d012fd7a8057231bd2a28134a9674
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 15:10:38 2020 +0800
+
+    intro page
+
+commit f8c1480bcccf1e4dff5b7acb09dd6509e83405d8
+Merge: 40f6cff 3589343
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 14:59:56 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 40f6cff836819900afeb4a0039b38eaf417caa7a
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 14:59:42 2020 +0800
+
+    bios
+
+commit 35893430167aef26250ac4021c3f08da23bd94f7
+Author: dk2404 <65907416+dk2404@users.noreply.github.com>
+Date:   Wed May 27 14:04:40 2020 +0800
+
+    Requirements
+
+commit fa2750cb07c6c9364a174acf1b16e8380ecb3d89
+Author: dk2404 <65907416+dk2404@users.noreply.github.com>
+Date:   Wed May 27 13:51:15 2020 +0800
+
+    Requirements
+
+commit e8768d61d726a69d24d2e82cbc34abd34d0b2108
+Merge: 0d4a0cb eb94fb2
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 12:44:00 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 0d4a0cbd8f814caaf4b71d90016cb22c330b99d6
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 12:43:41 2020 +0800
+
+    Css and Js
+
+commit eb94fb23c871a5bd0dd46aa61ba0efb38e56b07e
+Author: dk2404 <65907416+dk2404@users.noreply.github.com>
+Date:   Wed May 27 12:12:37 2020 +0800
+
+    clean
+
+commit f52c24eb8b1d69ae61b5749988a0195fa8d334d3
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 12:11:37 2020 +0800
+
+    cleaning
+
+commit 4d0158880a85a8b990ded544196792a7a1cd3a7a
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 12:08:30 2020 +0800
+
+    cleaning
+
+commit 86acc916c9816e519e34fcbe530cf3c2f08391f2
+Merge: 1fa8d41 5a31c1a
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 12:01:37 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit 1fa8d41000f101d404fbe07650dde316bb07dbf2
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 12:01:20 2020 +0800
+
+    base
+
+commit 5a31c1a2c6b8b504d1ce606d53dd8aa54297b737
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 12:00:13 2020 +0800
+
+    html files
+
+commit 9d837cf156b5ce631e5e21f7bb59eed2d1e957e0
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 11:59:56 2020 +0800
+
+    html files
+
+commit 77908c65f76c5fa6f97042680a84af6a8d8908fd
+Merge: 10691f9 b3bdccc
+Author: sonalisuhane <sonalisuhane08@gmail.com>
+Date:   Wed May 27 11:51:17 2020 +0800
+
+    Merge branch 'master' of https://github.com/dk2404/Py-Quiz
+
+commit b3bdccc2c5325cf46933ad6cf6cfd3800d07ed32
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 11:51:00 2020 +0800
+
+    iamge
+
+commit b3f44be99333e6681ea32a01331b3535d3670750
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 11:42:50 2020 +0800
+
+    About
+
+commit 10691f93ce9f03d43770ec68ac16bfe3fcb171c7
+Author: Sonali <sonali@Rahuls-MacBook.modem>
+Date:   Wed May 27 11:40:40 2020 +0800
+
+    Introduction page
+
+commit c1143f64a4e95efcbf1cb7d539e759b0bff85a95
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 11:14:55 2020 +0800
+
+    requiremtns
+
+commit 9b0fe7830c2e4b405c0345e2292b93b0d49405f7
+Author: dk2404 <diliprdy26@gmail.com>
+Date:   Wed May 27 11:09:30 2020 +0800
+
+    requirements file
+
+commit 1a4eda287b789fa90bba06f3dff426e3f157d387
+Author: dk2404 <65907416+dk2404@users.noreply.github.com>
+Date:   Wed May 27 10:22:50 2020 +0800
+
+    Initial commit

@@ -1,0 +1,49 @@
+{% extends "base.html" %}
+{% block content %}
+
+<link href="{{ url_for('static', filename='styles/sign.css') }}" rel="stylesheet">
+	<div class="login">
+		<h1 style="color: darkgoldenrod;">Sign In</h1>
+		<form action="" method="post" novalidate class="container">
+    
+        {{ form.hidden_tag() }}
+        
+			<p>
+            {{ form.username.label}}
+				<br>
+            {{ form.username(size=32) }}
+					<br>
+            {% for error in form.username.errors %}
+            
+						<span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        
+					</p>
+					<p >
+            {{ form.password.label(style="font-size:30px") }}
+						<br>
+            {{ form.password(size=32) }}
+							<br>
+            {% for error in form.password.errors %}
+            
+								<span style="color: red;">[{{ error }}]</span>
+            {% endfor %}
+        
+							</p>
+							<p style="margin-left: 80px;">
+            {{ form.remember_me.label }}  
+        </p>
+							<p style="margin-right: 700px;">
+            {{ form.remember_me() }}
+        </p>
+							<p>
+            {{ form.submit() }}
+        </p>
+						</form>
+						<p style="margin-left: 120px;color: darkgoldenrod;"> Don't have an account? 
+							<a href="{{ url_for('register') }}">
+								<button type="button" class="btn">Register</button>
+							</a>
+						</div>
+{% endblock %}
+

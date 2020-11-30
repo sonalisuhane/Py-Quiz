@@ -1,0 +1,129 @@
+{% extends "base.html" %}
+{% block content %}
+<head>
+  <link rel="stylesheet" type="text/css" href="{{ url_for('static',filename='styles/main.css') }}">
+</head>
+
+<body>
+<div class="content">
+  {% if current_user.is_anonymous %}
+    <h3> welcome! to the py-quiz <h3>
+  {% else %}
+    <h3> welcome, {{ current_user.username }}</h3>
+  {% endif %}
+  <br>
+  <h5> Py-Quiz </h5>
+  <br>
+
+  <img class="img_container1" src="{{ url_for('static',filename='images/py.png') }}" alt="adv/">
+  <h2 class="header">Python questionnaire to check your proficiency!</h2>
+      <!-- here we are declaring a special class to style it accordingly--> 
+        <div class="p1">Python is a programming language that lets you work more quickly and integrate your systems more effectively.
+            You can learn to use Python and see almost immediate gains in productivity and lower maintenance costs.
+        </div>
+        <div class="p1">
+            The Python online test assesses candidates' knowledge of programming in the Python language and understanding of its native data structures.
+            It's an ideal test for pre-employment screening. A good Python developer needs to be able not only to solve problems using Python as the programming language but also be familiar with Python native data structures and language constructs.
+            This online test requires candidates to solve coding problems in Python as well as to find and fix bugs in a Python program. 
+        </div>
+        
+</div>
+        <br>
+        <br>
+        <!-- Here we are linking the top navigation bar to the related data-->
+        <h2>Recommended Job Roles</h2>
+        <div class="content">
+            <ul style="color: gainsboro; margin-left: 350px;">
+                <li>Back end Developer</li>
+                <li>Python Developer</li>
+                <li>Web Developer</li>
+            </ul>
+        </div>
+        <h2 >Types of Quiz</h2>
+        <div class="middlenav">
+          <div>Beginner<q>A set of MCQ's to test basic knowledge of Python.</q></div>
+          <div>Intermediate<q>A set of short answer questions to identify the errors in the python program.</q></div>
+           </div>
+        
+        <h2>Sample Questions!</h2>
+        <!-- here we are declaring a class to adjust the images as per our requirement-->
+          <div>
+            <img class="img_container" src="{{ url_for('static',filename='images/cert.png') }}" alt="adv/">
+            <div class="alert_container">
+              <div class="alert">
+                <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span> 
+                <strong>Info!</strong> A tutorial to prepare and brush up your knowledge before the quiz! 
+                <a href="https://www.w3schools.com/python/default.asp">Learn Python!</a>
+              </div>
+          </div>
+        <!-- here we are declaring another special class to describe the special features in CSS-->
+          <p class="p3"> <b>Lets begin!</b> </p> 
+            <div class="benefit">
+            <hr>
+            <div class="descrip">
+            <p2> The following questions are a set of samples to give you a brief idea of what the test is going to look like!
+                Similar set of questions will be used throught the examination! Good Luck!
+            </p2>
+            </div><br>
+
+            </div>
+            
+            <div class="benefit">
+              <p3><b>What is a correct syntax to output "Hello World" in Python?
+            </b></p3> <br>
+              <hr>
+              <div class="descrip">
+                <p2> print("Hello World") <br> p("Hello World")</p2>
+                </div><br>
+            </div>
+
+            <div class="benefit">
+              <p3><b>How do you create variable with a numeric value 5?</b></p3> <br>
+              <hr>
+              <div class="descrip">
+                <p2> X=5 <br>X=(int)5</p2>
+                </div><br>
+            </div>
+            <div class="benefit">
+              <p3><b>Identify and report the error in the following function 
+                </b></p3> <br>
+              <hr>
+              <div class="descrip">
+                <p2> def square_digits(num):
+                    result = [] <br>
+                    if num > 0:;
+                        result.append(num%10);
+                        num= num//10;
+                    list = '' <br>
+                    for i in result:
+                        list += str(i**2);
+                    return int(list)</p2>
+                </div><br>
+            </div>
+            <div class="benefit">
+              <p3><b>Answers</b></p3> <br>
+              <hr>
+              <div class="descrip">
+                <p2> print("Hello World") ; Both ; <br>
+                    Replace if by while otherwise it only computes the square of the first digit:</p2>
+                </div><br>
+            </div>
+      </div>
+      <br>
+      <br>
+      <h2>References</h2>
+      <!-- Here we are linking the data refrences to the realted data-->
+      <div class="content">
+          <p id="p1">[1]<a href="https://en.wikipedia.org/wiki/Cascading_Style_Sheets">https://en.wikipedia.org/wiki/Cascading_Style_Sheets</a></p> 
+          <p id="p2">[2]<a href="https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON">https://www.w3schools.com/quiztest/quiztest.asp?qtest=PYTHON</a></p> 
+          <p id="p3">[3]<a href="https://www.tutorialspoint.com/python/python_online_quiz.htm">https://www.tutorialspoint.com/python/python_online_quiz.htm</a></p> 
+      </div>
+      <!-- Global navigator-->
+      <footer class="foo">
+        &copy; 2020 DK & SS,All rights reserved;
+    </footer>
+</body>
+</html>
+{% endblock %}
+
+

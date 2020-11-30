@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+    
+<link href="{{ url_for('static', filename='css/quiz.css') }}" rel="stylesheet">
+	<!-- long answer questions displayed at the bottom of the page -->
+	<form action="", method="post">
+        {%for question in questions%}
+        
+		<div class="question-body">
+			<h2>
+				<label for="{{question.id}}">{{question.question}}</label>
+			</h2>
+			<div class="all-options">
+				<textarea rows="4" cols="50" name="{{question.id}}" id ="{{question.id}}" required></textarea>
+			</div>
+		</div>
+        {% endfor %}
+        
+	</br>
+	<div>
+		<input type="submit" value="submit">
+		</div>
+	</form>
+</div>
+
+{% endblock %}
